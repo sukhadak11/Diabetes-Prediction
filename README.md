@@ -86,4 +86,6 @@ Diabetes-Prediction/
 
 
 ### 🔹 Prediction Output
-![Prediction Output]("https://github.com/user-attachments/assets/88bb248e-311e-4e06-ab43-8137c17efd79)
+![Prediction Output](https://github.com/user-attachments/assets/88bb248e-311e-4e06-ab43-8137c17efd79)
+
+### Deploy Link: https://diabetes-prediction-using-log-reg.streamlit.app/
