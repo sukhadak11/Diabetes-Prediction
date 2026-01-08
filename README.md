@@ -66,18 +66,24 @@ The dataset contains medical diagnostic measurements such as:
 
 ## 📁 Project Structure
 Diabetes-Prediction/
+
 │── app.py
+
 │── Logistic_Regression.ipynb
+
 │── diabetes.csv
+
 │── model.pkl
+
 │── scaler.pkl
+
 │── requirements.txt
+
 │── README.md 
 
 ### 🔹 Input Form
-![Input Form](<img width="1388" height="910" alt="image" src="https://github.com/user-attachments/assets/e0842ff6-6a34-40d9-856b-8d509c89e12c" />
-)
+![Input Form](https://github.com/user-attachments/assets/e0842ff6-6a34-40d9-856b-8d509c89e12c)
+
 
 ### 🔹 Prediction Output
-![Prediction Output](<img width="1417" height="700" alt="image" src="https://github.com/user-attachments/assets/88bb248e-311e-4e06-ab43-8137c17efd79" />
-)
+![Prediction Output]("https://github.com/user-attachments/assets/88bb248e-311e-4e06-ab43-8137c17efd79)
